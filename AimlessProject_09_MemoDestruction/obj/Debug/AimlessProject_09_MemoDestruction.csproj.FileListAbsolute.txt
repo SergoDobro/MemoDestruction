@@ -1,0 +1,7 @@
+D:\Програмирование\С# computer\1. AimlessProjects\AimlessProject_09_MemoDestruction\AimlessProject_09_MemoDestruction\bin\Debug\AimlessProject_09_MemoDestruction.exe.config
+D:\Програмирование\С# computer\1. AimlessProjects\AimlessProject_09_MemoDestruction\AimlessProject_09_MemoDestruction\bin\Debug\AimlessProject_09_MemoDestruction.exe
+D:\Програмирование\С# computer\1. AimlessProjects\AimlessProject_09_MemoDestruction\AimlessProject_09_MemoDestruction\bin\Debug\AimlessProject_09_MemoDestruction.pdb
+D:\Програмирование\С# computer\1. AimlessProjects\AimlessProject_09_MemoDestruction\AimlessProject_09_MemoDestruction\obj\Debug\AimlessProject_09_MemoDestruction.csprojAssemblyReference.cache
+D:\Програмирование\С# computer\1. AimlessProjects\AimlessProject_09_MemoDestruction\AimlessProject_09_MemoDestruction\obj\Debug\AimlessProject_09_MemoDestruction.csproj.CoreCompileInputs.cache
+D:\Програмирование\С# computer\1. AimlessProjects\AimlessProject_09_MemoDestruction\AimlessProject_09_MemoDestruction\obj\Debug\AimlessProject_09_MemoDestruction.exe
+D:\Програмирование\С# computer\1. AimlessProjects\AimlessProject_09_MemoDestruction\AimlessProject_09_MemoDestruction\obj\Debug\AimlessProject_09_MemoDestruction.pdb
